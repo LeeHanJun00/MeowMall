@@ -69,9 +69,13 @@
 
 ![회원관리배송관리](https://github.com/LeeHanJun00/MeowMall/assets/137124830/beef1f9a-14b7-46db-8ddf-4e9c8757a96c)
 
-> 마이페이지에서 자신이 작성한 글, 좋아요 누른 글 목록, 포인트 충전 및 취소도 가능합니다.
+> 답변페이지
+- QnA 질문 확인
+- 답변 및 게시글 삭제 기능
 
-![마이페이지, 좋아요목록, 포인트](https://user-images.githubusercontent.com/89783182/172991743-1828c1f0-9cd2-4d4d-87c7-166fd0bf0c1d.gif)
+
+![답변작성삭제](https://github.com/LeeHanJun00/MeowMall/assets/137124830/43d3c26e-26b4-4dd6-867a-0ffebf08338e)
+
 
 > 리뷰를 작성한 사람들을 팔로우 해보세요. 유저를 팔로우 할 수 있습니다.
  
