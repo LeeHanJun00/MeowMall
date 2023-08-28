@@ -12,7 +12,7 @@
 
 > 서비스의 소개와 팀원 소개가 들어있는 소개 페이지
 
-![소개](https://github.com/LeeHanJun00/MeowMall/issues/1#issue-1868802115.gif)
+![소개](https://github.com/LeeHanJun00/MeowMall/assets/137124830/4ea9710c-995d-4187-9830-c1be249aae6a)
 
 > 로그인 후 메인페이지에 접속하면 최신글들과 함께 회원가입시 선호하는 카테고리에 의해서 추천글들이 보여집니다.
 - 각각의 item을 클릭 시 상세보기로 이동이 가능합니다.
