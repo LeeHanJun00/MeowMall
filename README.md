@@ -10,7 +10,7 @@
 
 ## 페이지 구성
 
-> 서비스의 소개와 팀원 소개가 들어있는 소개 페이지
+> 메인페이지
 
 ![소개](https://github.com/LeeHanJun00/MeowMall/assets/137124830/4ea9710c-995d-4187-9830-c1be249aae6a)
 
