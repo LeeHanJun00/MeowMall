@@ -77,16 +77,5 @@
 ![답변작성삭제](https://github.com/LeeHanJun00/MeowMall/assets/137124830/43d3c26e-26b4-4dd6-867a-0ffebf08338e)
 
 
-> 리뷰를 작성한 사람들을 팔로우 해보세요. 유저를 팔로우 할 수 있습니다.
- 
-![팔로우](https://user-images.githubusercontent.com/89783182/172997731-9e82cf58-82c6-462a-b19a-550d2b42a7c5.gif)
 
-> 쪽지를 보낼 수 있습니다. 유저에게 쪽지를 보내 보세요
-- 쪽지 보내기
-
-![쪽지발신](https://user-images.githubusercontent.com/89783182/172997952-c1e3ce94-b55c-4c5a-90f0-df83746c4a4a.gif)
-
-- 받은 쪽지함
-
-![쪽지수신](https://user-images.githubusercontent.com/89783182/172997975-a42ca952-2137-4330-b4b7-0df3dbe89315.gif)
 
