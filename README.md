@@ -32,8 +32,7 @@
 - 오래된/최근/가격/이름/순으로 정렬 가능
 - 장바구니 기능
 
-![카테고리,장바구니](https://github.com/LeeHanJun00/MeowMall/assets/137124830/5eeb53db-4c40-425c-af86-6a01e9d)
-
+![카테고리,장바구니](https://github.com/LeeHanJun00/MeowMall/assets/137124830/5eeb53db-4c40-425c-af86-6a01e9dd9052)
 
 > 장바구니 / 결제 페이지
 - 제품 수량 수정 및 삭제 <br>
