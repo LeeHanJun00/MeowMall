@@ -14,10 +14,9 @@
 
 ![소개](https://github.com/LeeHanJun00/MeowMall/assets/137124830/4ea9710c-995d-4187-9830-c1be249aae6a)
 
-> 로그인 후 메인페이지에 접속하면 최신글들과 함께 회원가입시 선호하는 카테고리에 의해서 추천글들이 보여집니다.
-- 각각의 item을 클릭 시 상세보기로 이동이 가능합니다.
-- 
-![소개](https://github.com/LeeHanJun00/MeowMall/issues/2#issue-1868837659)
+> 로그인 페이지
+
+![로그인,로그아웃](https://github.com/LeeHanJun00/MeowMall/assets/137124830/ccef9bde-7c4e-4b73-b70a-d65fe4984bf7)
 
 
 > 로그인을 하지 않았을 경우
