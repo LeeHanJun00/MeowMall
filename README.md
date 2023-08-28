@@ -32,14 +32,9 @@
 - 오래된/최근/가격/이름/순으로 정렬 가능
 - 장바구니 기능
 
-![카테고리,장바구니](https://github.com/LeeHanJun00/MeowMall/assets/137124830/5eeb53db-4c40-425c-af86-6a01e9dd9052)
+![카테고리,장바구니](https://github.com/LeeHanJun00/MeowMall/assets/137124830/5eeb53db-4c40-425c-af86-6a01e9d제
 
-
-> 리뷰를 작성할 수 있습니다.
-- 버튼 하나로 단짠리뷰(일반리뷰), 가주세요(요청), 시식단리뷰를 선택할 수 있습니다.
-- 당신의 멋진 리뷰를 보여주기 위해 반드시 하나 이상의 사진을 올려주세요.
-
-![글쓰기](https://user-images.githubusercontent.com/89783182/172997387-9ead8607-f300-45c2-acde-b2466f046a5c.gif)
+![장바구니결제](https://github.com/LeeHanJun00/MeowMall/assets/137124830/5fa829e2-bf53-466d-8b30-a2eeea28dfed)
 
 > 유저들이 쓴 모든 글을 볼 수 있는 전체 리스트 페이지 입니다.
 - 무한스크롤 적용으로 스크롤 내릴 시 글 목록이 불러와집니다. <br>
