@@ -20,9 +20,11 @@
 ![로그인,로그아웃](https://github.com/LeeHanJun00/MeowMall/assets/137124830/ccef9bde-7c4e-4b73-b70a-d65fe4984bf7)
 
 
-> 회원가입 페이지
+> QnA페이지
+- 글 조회 및 본인글 수정/삭제 
+- 비밀글 기능(작성자 및 관리자만 확인 가능)
 
-![회원가입](https://user-images.githubusercontent.com/89783182/172988663-adfbcc95-a1b6-4625-b827-567ba17f174a.gif)
+![qna(작성,삭제,비밀글)](https://github.com/LeeHanJun00/MeowMall/assets/137124830/11d8aa45-5b98-4b42-89bd-999bc0412086)
 
 > 로그인 페이지
 - 자체 로그인 및 소셜로그인이 가능합니다.
