@@ -34,13 +34,12 @@
 
 ![카테고리,장바구니](https://github.com/LeeHanJun00/MeowMall/assets/137124830/5eeb53db-4c40-425c-af86-6a01e9d제
 
+
+> 장바구니 / 결제 페이지
+- 제품 수량 수정 및 삭제 <br>
+- 우편API/결제 <br>
+
 ![장바구니결제](https://github.com/LeeHanJun00/MeowMall/assets/137124830/5fa829e2-bf53-466d-8b30-a2eeea28dfed)
-
-> 유저들이 쓴 모든 글을 볼 수 있는 전체 리스트 페이지 입니다.
-- 무한스크롤 적용으로 스크롤 내릴 시 글 목록이 불러와집니다. <br>
-- item 클릭 시 상세보기로 이동합니다. <br>
-
-![전체리스트](https://user-images.githubusercontent.com/89783182/172989092-18d6f821-0096-4f76-beb3-f3554c362710.gif)
 
 > 단짠리뷰(일반리뷰), 시식단 리뷰에서는 filter 적용으로 검색을 할 수 있습니다.
 
