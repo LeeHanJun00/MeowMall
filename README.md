@@ -15,14 +15,10 @@
 ![소개](https://github.com/LeeHanJun00/MeowMall/assets/137124830/4ea9710c-995d-4187-9830-c1be249aae6a)
 
 > 로그인 페이지
+- 자체 로그인 및 소셜로그인이 가능합니다.
 
 ![로그인,로그아웃](https://github.com/LeeHanJun00/MeowMall/assets/137124830/ccef9bde-7c4e-4b73-b70a-d65fe4984bf7)
 
-
-> 로그인을 하지 않았을 경우
-- 추천 탭에 정보가 표시되지 않습니다. 회원가입을 진행해주세요.
-
-![로그인,로그아웃](https://github.com/LeeHanJun00/MeowMall/assets/137124830/ccef9bde-7c4e-4b73-b70a-d65fe4984bf7)
 
 > 회원가입 페이지
 
