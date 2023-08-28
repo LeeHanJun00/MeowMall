@@ -40,9 +40,11 @@
 
 ![장바구니결제](https://github.com/LeeHanJun00/MeowMall/assets/137124830/5fa829e2-bf53-466d-8b30-a2eeea28dfed)
 
-> 단짠리뷰(일반리뷰), 시식단 리뷰에서는 filter 적용으로 검색을 할 수 있습니다.
+> 마이페이지
+- 내 정보 수정 <br>
+- 주문내역/리뷰작성 및 나의 리뷰 조회/ 문의내역 확인 <br>
 
-![필터검색](https://user-images.githubusercontent.com/89783182/172990010-6b5ee217-2a33-4883-a01e-1f8cb1d0b487.gif)
+![마이페이지구성](https://github.com/LeeHanJun00/MeowMall/assets/137124830/d7616544-71cf-4f7c-a5a6-bf51c06c6ec8)
 
 > 소상공인들에게 지원을 받아 시식을 하고 그 시식평을 작성할 수 있는 시식단 리뷰 페이지입니다.
 
