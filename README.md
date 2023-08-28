@@ -16,8 +16,9 @@
 
 > 로그인 후 메인페이지에 접속하면 최신글들과 함께 회원가입시 선호하는 카테고리에 의해서 추천글들이 보여집니다.
 - 각각의 item을 클릭 시 상세보기로 이동이 가능합니다.
+- 
+![소개](https://github.com/LeeHanJun00/MeowMall/issues/2#issue-1868837659)
 
-![로그인시 메인](https://github.com/LeeHanJun00/MeowMall/issues/2#issue-1868837659)
 
 > 로그인을 하지 않았을 경우
 - 추천 탭에 정보가 표시되지 않습니다. 회원가입을 진행해주세요.
